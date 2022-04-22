@@ -3,7 +3,7 @@
 
 - 🔭 I’m  a recent graduate in Computer Engineering.
 - ⚡ I'm currently learning MERN stack.
-- 🌱 I am  a firm beleiver of taking tiny steps each day to achieve exponential growth.
+- 🌱 I am  a firm believer of taking tiny steps each day to achieve exponential growth.
 
 
 ### Languages and Tools:
