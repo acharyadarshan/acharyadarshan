@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m  a recent graduate in Computer Engineering.
-- ⚡ I'm currently learning MERN stack.
+- ⚡ I'm currently looking for Junior/Associate Software Engineer postion.
 - 🌱 I am  a firm believer of taking tiny steps each day to achieve exponential growth.
 
 
