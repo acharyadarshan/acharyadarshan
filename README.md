@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m  a recent graduate in Computer Engineering.
-- ⚡ I'm currently looking for Junior/Associate Software Engineer position.
+- ⚡ I'm currently interning as a software engineer in Leapfrog Technology Inc.
 - 🌱 I am  a firm believer of taking tiny steps each day to achieve exponential growth.
 
 
