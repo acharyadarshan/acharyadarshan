@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m  a recent graduate in Computer Engineering.
-- ⚡ I'm currently interning as a software engineer in Leapfrog Technology Inc.
+- ⚡ A passionate developer with love for Javascript and NLP
 - 🌱 I am  a firm believer of taking tiny steps each day to achieve exponential growth.
 
 
