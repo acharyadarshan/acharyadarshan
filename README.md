@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Darshan Acharya.
 
-
-- 🔭 I’m  a recent graduate in Computer Engineering.
 - ⚡ A passionate developer with love for Javascript and NLP
 - 🌱 I am  a firm believer of taking tiny steps each day to achieve exponential growth.
 
