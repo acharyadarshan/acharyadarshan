@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Darshan Acharya.
 
-- ⚡ A passionate developer with love for Javascript, PL,NLP and Applied Mathematics
-- 🌱 I am  a firm believer of taking tiny steps each day to achieve exponential growth.
+- ⚡ A passionate developer with a love for Javascript PL, NLP, and Applied Mathematics
+- 🌱 I firmly believe in taking tiny daily steps to achieve exponential growth.
 
 
 ### Languages and Tools:
