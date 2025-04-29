@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Darshan Acharya.
 
-- ⚡ A passionate developer with a love for Javascript, PL, NLP, and Applied Mathematics
+- ⚡ A passionate developer with a love for Optimization as whole, PL, NLP, and Applied Mathematics
 
 
 
