@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Darshan Acharya.
 
-- ⚡ A passionate developer with a love for optimization as whole, PL, NLP, and Applied Mathematics
+- Into optimization, PLs, NLP, and applied math.
 
 
 
